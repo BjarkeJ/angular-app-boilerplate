@@ -7,7 +7,7 @@ var uglify = require('gulp-uglify');
 
 
 var themePath = './source/theme/';
-var distPath = './dist/';
+var distPath = './build/';
 
 
 

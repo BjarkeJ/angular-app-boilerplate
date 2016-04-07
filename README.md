@@ -14,6 +14,7 @@ npm install
 ```
 
 ## Build
+Building the app is done using *gulp*. Gulp builds the app and moves files from the folder */source* to */build*. Changes to build actions can be made in *gulpfile.js*
 ```
 gulp
 ```
@@ -21,15 +22,16 @@ gulp
 ## Adjust
 
 ### Add favicon
-
+Replace the favicons found in */source/theme/favicon*
 
 
 ### Add brand logo
+Replace the brand logo found at */source/img/logo.png*
 
 
 
 ### Customize Bootstrap
-
+Customize the look and feel of bootstrap from the files in folder: */source/theme/less/*. Customize the basic stuff in _variables.less, such as brand colors.
 
 
 
