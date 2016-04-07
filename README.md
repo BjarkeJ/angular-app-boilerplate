@@ -5,6 +5,7 @@ A simple boilerplate used for starting angular-based web apps utilizing front-en
 - Node & npm
 - Bower
 - gulp
+- http-server
 
 ## Install
 ```
@@ -23,6 +24,11 @@ git init
 Building the app is done using *gulp*. Gulp builds the app and moves files from the folder */source* to */build*. Changes to build actions can be made in *gulpfile.js*
 ```
 gulp
+```
+
+## Launch
+```
+http-server
 ```
 
 ## Adjust
