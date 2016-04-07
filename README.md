@@ -37,16 +37,16 @@ http-server
 
 ## Adjust
 
-### Add favicon
+### 1. Add favicon
 Replace the favicons found in */source/theme/favicon*
 
 
-### Add brand logo
+### 2. Add brand logo
 Replace the brand logo found at */source/img/logo.png*
 
 
 
-### Customize Bootstrap
+### 3. Customize Bootstrap
 Customize the look and feel of bootstrap from the files in folder: */source/theme/less/*. Customize the basic stuff in _variables.less, such as brand colors.
 
-### Configure Google Analytics
+### 4. Configure Google Analytics
