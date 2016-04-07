@@ -8,9 +8,15 @@ A simple boilerplate used for starting angular-based web apps utilizing front-en
 
 ## Install
 ```
-git clone git@github.com:BjarkeJ/angular-app-boilerplate.git
+git clone git@github.com:BjarkeJ/angular-app-boilerplate.git **your-project-name**
 bower install
 npm install
+```
+
+## Reinitiate your own git repo
+```
+rm -rf .git
+git init
 ```
 
 ## Build
