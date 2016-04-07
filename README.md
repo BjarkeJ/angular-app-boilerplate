@@ -10,14 +10,17 @@ A simple boilerplate used for starting angular-based web apps utilizing front-en
 ## Install
 ```
 git clone git@github.com:BjarkeJ/angular-app-boilerplate.git **your-project-name**
+cd **your-project-name**
 bower install
-npm install
+sudo npm install
 ```
 
 ## Reinitiate your own git repo
 ```
 rm -rf .git
 git init
+git add .
+git commit -m 'Init project from boilerplate'
 ```
 
 ## Build
@@ -26,8 +29,9 @@ Building the app is done using *gulp*. Gulp builds the app and moves files from 
 gulp
 ```
 
-## Launch
+## Test Server
 ```
+cd source
 http-server
 ```
 
@@ -45,5 +49,4 @@ Replace the brand logo found at */source/img/logo.png*
 ### Customize Bootstrap
 Customize the look and feel of bootstrap from the files in folder: */source/theme/less/*. Customize the basic stuff in _variables.less, such as brand colors.
 
-
-
+### Configure Google Analytics
