@@ -1,0 +1,18 @@
+{
+  "name": "angular-app-boilerplate",
+  "homepage": "https://github.com/BjarkeJ/angular-app-boilerplate",
+  "authors": [
+    "BjarkeJ <bjarkeduejensen@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

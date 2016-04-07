@@ -1,0 +1,19 @@
+{
+  "name": "angular-app-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple boilerplate used for starting angular-based web apps utilizing front-end tools like bootstrap and gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BjarkeJ/angular-app-boilerplate.git"
+  },
+  "author": "Bjarke Due Jensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BjarkeJ/angular-app-boilerplate/issues"
+  },
+  "homepage": "https://github.com/BjarkeJ/angular-app-boilerplate"
+}
